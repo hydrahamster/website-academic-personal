@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Garvan Institute of Medical Research"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -89,7 +89,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "a.kretzschmar@garvan.org.au"
-phone = "888 888 88 88"
+phone = "0433 722 589"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,7 +97,7 @@ address = {street = "384 Victoria St", city = "Darlinghurst", region = "NSW", po
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-33.878554212890656", longitude = "151.22211157006234"}, 
+coordinates = {latitude = "-33.878554212890656", longitude = "151.22211157006234"}
 
 # Directions for visitors to locate you.
 directions = "Enter Kinghorn Cancer Centre and inquire with concierge"
