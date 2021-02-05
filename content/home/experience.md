@@ -47,7 +47,7 @@ experience:
     date_end: '2019-06-01'
     description: Volunteer position working with high school students in order to advocate the retention of women in STEM subjects
     
-  - title: Social media officer and newletter editor
+  - title: Social media officer and newsletter editor
     company: Australasian Society for Phycology and Aquatic Botany
     company_url: ''
     location: Sydney, Australia
@@ -61,7 +61,7 @@ experience:
     location: Sydney, Australia
     date_start: '2013-09-01'
     date_end: '2014-06-01'
-    description: Working on bioaugnetation of indiutrially polluted sites, supervised by Maria-Luisa Gutierrez-Zamora
+    description: Working on bioaugmentation of industrially polluted sites, supervised by Maria-Luisa Gutierrez-Zamora
 
 
 ---

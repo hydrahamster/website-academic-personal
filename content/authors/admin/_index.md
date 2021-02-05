@@ -69,7 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-Anna Liza Kretzschmar is a post doc in Sara Ballouz's lab, Gene Networks in Disease, at the Garvan Institute of Medical Research. Her work focuses on the sex difference in autoimmune disorders, investigating the underlying gentic mechanisms of why the majority of patients are female.
+Anna Liza Kretzschmar is a post doc in Sara Ballouz's lab, Gene Networks in Disease, at the Garvan Institute of Medical Research. Her work focuses on the sex difference in autoimmune disorders, investigating the underlying genetic mechanisms of why the majority of patients are female.
 
 Her PhD was focused on the ciguatera fish poisoning causative agent, the marine microalgae *Gambierdiscus*.  The story started based on molecular microbiological work identifying new species in Australia and their toxicity, to quantitative detection in environmental settings, and finally transitioned to bioinformatic pipeline development for transcriptome analysis and robust phylogenetic placement of the genus in a wider evolutionary setting.
 
