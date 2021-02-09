@@ -22,24 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Officer
+    company: Garvan Institute of Medical Research
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Sydney, Australia
+    date_start: '2020-08-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Postdoctoral researcher in Sara Ballouz's lab group, in the  Garvan-Weizmann Centre for Cellular Genomics
+
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Doctorate candidate
+    company: ithree institute University of Technology Sydney
     company_url: ''
-    location: California
+    location: Sydney, Australia
+    date_start: '2014-06-01'
+    date_end: '2019-12-31'
+    description: Delving into the genetic code of *Gambierdiscus*, the devil is in the detail. Supervised by Aaron Darling and Tim Kahlke
+       
+  - title: ChooseMATH rolemodel
+    company: Australian Mathematical Sciences Institute
+    company_url: ''
+  #  location: Sydney, Australia
     date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_end: '2019-06-01'
+    description: Volunteer position working with high school students in order to advocate the retention of women in STEM subjects
+    
+  - title: Social media officer and newsletter editor
+    company: Australasian Society for Phycology and Aquatic Botany
+    company_url: ''
+    location: Sydney, Australia
+    date_start: '2016-01-01'
+    date_end: '2017-01-01'
+    description: Establish and maintain social media presence and engagement, produce and edit the society's newsletter
+
+  - title: Research Assistant
+    company: University of New South Wales
+    company_url: ''
+    location: Sydney, Australia
+    date_start: '2013-09-01'
+    date_end: '2014-06-01'
+    description: Working on bioaugmentation of industrially polluted sites, supervised by Maria-Luisa Gutierrez-Zamora
+
+
 ---
