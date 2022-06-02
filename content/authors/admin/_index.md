@@ -19,8 +19,10 @@ bio: Researching the sex differences of autoimmune disorder through gene network
 # Interests to show in About widget
 interests:
 - Autoimmune disorders
+- Patient advocacy
 - Genetics in disease
-- Bioinformatics
+- Large dataset exploration through bioinformatics
+- ME/CFS & long COVID
 
 # Education to show in About widget
 education:
