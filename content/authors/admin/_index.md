@@ -22,7 +22,6 @@ interests:
 - Patient advocacy
 - Large dataset exploration through bioinformatics
 - ME/CFS & long COVID
-- Genetics in disease
 
 # Education to show in About widget
 education:
