@@ -20,7 +20,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: learner
+- description: competent
   icon: r-project
   icon_pack: fab
   name: R
