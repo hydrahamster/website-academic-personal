@@ -11,7 +11,7 @@ role: Research Officer
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Garvan Institute of Medical Research
-  url: https://www.garvan.org.au/
+  url: https://www.garvan.org.au/research/labs/computational-genomics/@@staff-profiles
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researching the sex differences of autoimmune disorder through gene networks.
@@ -69,7 +69,10 @@ email: ""
 highlight_name: false
 ---
 
-Anna Liza Kretzschmar is a post doc in Sara Ballouz's lab, Gene Networks in Disease, at the Garvan Institute of Medical Research. Her work focuses on the sex difference in autoimmune disorders, investigating the underlying genetic mechanisms of why the majority of patients are female.
+I am a post doc in Sara Ballouz’s group, Gene Networks in Disease, at the Garvan Institute of Medical Research. My interest is in the underlying genetic mechanisms of autoimmunity and why the prevalence of patients are female, as well a bridging patient advocacy and medical research. I am a bioinformatician living with ME/CFS, fibromyalgia and a compromised immune system. As such I am aware of the inadequate treatment chronically ill folk often receive from the medical community and I want to use my training to help improve my fellow patients' lives and diagnostic journeys.
 
-Her PhD was focused on the ciguatera fish poisoning causative agent, the marine microalgae *Gambierdiscus*.  The story started based on molecular microbiological work identifying new species in Australia and their toxicity, to quantitative detection in environmental settings, and finally transitioned to bioinformatic pipeline development for transcriptome analysis and robust phylogenetic placement of the genus in a wider evolutionary setting.
+Sara and I received the [Solve M.E Ramsay research grant](https://solvecfs.org/research-and-registry/ramsay-research-grants/meet-the-researchers/sara-ballouz/) in 2021 for “Symptoms, mechanisms and sex: Exploring the sex differences in ME/CFS through integrated computational analyses”. This project is ongoing and aims to tackle how ME/CFS and sex differences manifest through an exploration of gene expression and cellular heterogeneity of the immune system in ME/CFS. In addition, we will build a network analysis tool to parse and homogenize survey-driven data to allow for comparability of phenotype information from patients with ME/CFS and with Long Covid in multiple registries. Combined, we hope to highlight features to aid in classification and diagnosis of  this disease. 
+![Solve M.E Ramsay grant press release image](assets/images/Ramsay-superheroes.jpg)
+
+My PhD was focused on the marine microalgae *Gambierdiscus*, which produces neurotoxins that cause ciguatera fish poisoning.  My candidature started with molecular microbiological work identifying new species in Australia and their toxicity and to quantitative detection in environmental settings. As my ME/CFS progressed, I transitioned to bioinformatic pipeline development for transcriptome analysis and robust phylogenetic placement of the genus in a wider evolutionary setting.
 
